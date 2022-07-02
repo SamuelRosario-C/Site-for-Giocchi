@@ -1,0 +1,30 @@
+#bar-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+#bar-header-h1{
+    font-size: 8vw;
+}
+
+#bar-header-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#bar-header-img{
+    width: 35vw;
+    border-radius: 10%;
+}
+
+#bar-header-p{
+    width: 40vw;
+    color: #2e0e00;
+    font-style: italic;
+    font-weight: 500;
+    padding-left: 5vw;
+}

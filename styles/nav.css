@@ -1,0 +1,30 @@
+#bar-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    border-radius: 0 0 10px 10px;
+}
+
+#bar-nav-menu{
+    font-weight: bold;
+    font-size: 40px;
+    display: none;
+    margin-right: 15px;
+}
+
+#bar-nav-img{
+    border-radius: 50%;
+}
+
+#bar-nav-ul{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.bar-nav-a{
+    color: #55443d;
+    font-weight: bold;
+}

@@ -1,0 +1,97 @@
+#bar-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#bar-main-redesocial {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    width: 90vw;
+    text-align: center;
+}
+
+.bar-main-redesocial-links {
+    color: #412317;
+    font-weight: bold;
+}
+
+.bar-main-redesocial-icons {
+    width: 15vw;
+}
+
+.bar-main-redesocial-name {
+    font-size: 1rem;
+}
+
+#bar-main-videos {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    text-align: center;
+}
+
+.bar-main-videos-mod {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 20%;
+}
+
+.bar-main-videos-play {
+    border-radius: 20px;
+    width: 24vw;
+    height: 14vw;
+}
+
+.bar-main-videos-name {
+    line-height: 30px;
+    font-size: 0.7rem;
+}
+
+#bar-main-parceiros {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+    gap: 15px;
+    
+}
+
+.bar-main-parceiros-area {
+    width: 20vw;
+}
+
+.bar-main-img {
+    width: 10vw;
+    height: 10vw;
+    border-radius: 50%;
+}
+
+.bar-main-parceiros-name{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.bar-main-parceiros-job {
+    font-size: 1.5vw;
+    
+}
+
+#bar-help {
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,73 @@
+@media (max-width: 562px) {
+    #bar-nav-img {
+        width: 22vw;
+    }
+
+    #bar-nav-ul {
+        display: none;
+    }
+
+    #bar-header {
+        margin: 10px 0 0 10px;
+    }
+
+    #bar-header-img {
+        width: 60vw;
+    }
+
+    #bar-header-p {
+        width: 60vw;
+        padding-left: 2vw;
+        font-size: 3.8vw;
+    }
+
+    #bar-nav-menu {
+        display: block;
+        font-size: 2rem;
+    }
+
+    #bar-main-redesocial {
+        justify-content: space-between;
+    }
+
+    .bar-main-redesocial-name {
+        display: none;
+    }
+
+    #bar-main-videos {
+        gap: 10px;
+    }
+
+    .bar-main-videos-play{
+        width: 100vw;
+        height: 50vw;
+        border-radius: 0;
+    }
+
+    .bar-main-videos-name{
+        font-size: 0.8rem;
+        width: 100vw;
+    }
+
+    #bar-main-parceiros{
+        margin: 25px 5px 0 5px;
+
+    }
+
+    .bar-main-parceiros-job{
+        font-size: 0.2rem;
+    }
+
+    .bar-main-parceiros-name{
+        font-size: 0.9rem;
+    }
+    .bar-main-img{
+        width: 20vw;
+        height: 20vw;
+    }
+
+    #bar-help h2{
+        font-size: 0.9rem;
+    }
+    
+}
